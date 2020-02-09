@@ -1,0 +1,6 @@
+C:\Users\aleks\Desktop\travelhack8-9.02.20\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\aleks\Desktop\travelhack8-9.02.20\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\aleks\Desktop\travelhack8-9.02.20\HTTPServer\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\aleks\Desktop\travelhack8-9.02.20\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\travelhack8-9.02.20\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\aleks\Desktop\travelhack8-9.02.20\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.pdb
